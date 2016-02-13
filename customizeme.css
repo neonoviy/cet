@@ -1,0 +1,44 @@
+/* @override 
+	http://test1.local:8888/manager//templates/cet/customizeme.css */
+
+#modx-header {
+  /*background: url(/images/header.jpg) 240px no-repeat #011a21;*/
+}
+
+#modx-navbar {
+	/*background-color: #011a21;*/
+}
+
+#modx-navbar a, #modx-user-menu a {
+  /*color: #FFF;*/
+}
+
+#limenu-site a, #limenu-media a{
+	/*color: #88c351;*/
+}
+
+#limenu-components a{
+	/*color: #6aafdb;*/
+}
+
+#limenu-manage a{
+	/*color: #ed663d;*/
+}
+
+#modx-navbar ul.modx-subnav li a {
+  /*color: #C9D4E1;*/
+}
+
+#modx-navbar ul.modx-subnav ul li a{
+	/*color: #899fb7;*/
+}
+
+#modx-navbar ul.modx-subnav li a:hover {
+    /*color: #FFF*/
+}
+
+#modx-header #modx-home-dashboard{
+/*	background-image: url(yourlogo.png);
+	background-repeat: no-repeat;
+	width: 100px;*/
+}
